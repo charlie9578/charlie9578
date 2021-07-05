@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Charlie. I'm keen to see the renewables industry adopt and use open source code and practices, and also share data and knowledge in an open manner.
+
+🔭 I'm contributing to NREL's OpenOA, but also creating "fun" python scripts, often associated with wind and renewable energy.
+
+👯 If you're interested in the work I do, have an interesting project you think I might be interested, or want to collaborate on a project, just let me know :)
+
+👬 🏳️‍🌈 🌍
+
 <!--
 **charlie9578/charlie9578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
