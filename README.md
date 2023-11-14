@@ -4,7 +4,7 @@ I'm Charlie (he/him). I'm currently working in the renewables industry and I am 
 
 🔭 I'm contributing to NREL's [OpenOA](https://github.com/NREL/OpenOA), but also creating "fun" python scripts, often associated with [wind and renewable energy](https://charlie9578.github.io/gallery/UK-WindAndSolar.html).
 
-🧑‍🚀 I've released some of our wind farm SCADA data under an open license, please see [Kelmarsh](https://doi.org/10.5281/zenodo.5841833) and [Penmanshiel](https://doi.org/10.5281/zenodo.5946807), and I am further [supporting the use](https://www.wedowind.ch/code-space) of this data
+🧑‍🚀 I managed to get some wind farm SCADA data released under an open license, please see [Kelmarsh](https://doi.org/10.5281/zenodo.5841833) and [Penmanshiel](https://doi.org/10.5281/zenodo.5946807), and I am further [supporting the use](https://www.wedowind.ch/spaces/the-open-data-exploration-space) of this data
 
 🤓 I also like to play with open data myself, for example [data from OpenStreetMaps](https://charlie9578.github.io/gallery.html), and helping to improve it too
 
